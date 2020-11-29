@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Life Cycle App</string>
+
+    <string name="nextActivity">Change Activity</string>
+    <string name="activity1">Main Activity</string>
+    <string name="activity2">Activity 2</string>
+</resources>
